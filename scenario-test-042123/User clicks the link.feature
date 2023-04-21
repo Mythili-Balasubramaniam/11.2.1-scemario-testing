@@ -1,5 +1,5 @@
 Feature:
-  User clicks the link
+  User clicks the link - edit from github
 
 Scenario: User clicks the link
   Given I am on the homepage
